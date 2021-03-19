@@ -8,4 +8,4 @@ Arabic natural language understanding model based on BERT architecture, and trai
   - Further pre-training : For additional pre-training on your text corpus, follow the steps shown here [Pre-training with bert](https://github.com/google-research/bert#pre-training-with-bert) using our model as checkpoint ("init_checkpoint" parmeter of "run_pretraining.py" script).
 
 ## Acknowledgments
-We would like to express our thanks and gratitude to the TensorFlow Research Cloud (TFRC) team for their help which allows us to freely benefit from Cloud TPU instances for research purposes.
+We would like to express our thanks and gratitude to the TensorFlow Research Cloud ([TFRC](https://www.tensorflow.org/tfrc)) team for their help which allows us to freely benefit from Cloud TPU instances for research purposes.
